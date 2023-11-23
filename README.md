@@ -6,7 +6,7 @@
 
 # Welcome to My GitHub Profile!
 
-Hello! I am a 28-year-old professional currently residing in Santa Catarina, Brazil. I am going through an exciting career transition, moving from computer maintenance to the world of software development.
+Hello! I am a 28-year-old professional. I am going through an exciting career transition, moving from computer maintenance to the world of software development.
 
 I fell in love with programming while studying and discovered a passion for back-end development with Node.js.
 
