@@ -6,14 +6,12 @@
 
 # Welcome to My GitHub Profile!
 
-Hello! I am a 28-year-old professional. I am going through an exciting career transition, moving from computer maintenance to the world of software development.
+I’m a passionate aspiring backend developer, transitioning into software development after discovering my love for programming during my studies.
 
-I fell in love with programming while studying and discovered a passion for back-end development with Node.js.
+I’m focused on mastering the JavaScript ecosystem, especially Node.js, Express, RESTful APIs, and PostgreSQL.
 
-I have a natural ability to learn new things, enjoy overcoming challenges, and constantly seek to improve myself. I firmly believe that through programming, we not only create products but also provide incredible experiences for users.
+I enjoy learning new skills, tackling challenges, and constantly improving myself to deliver great user experiences through code.
 
-I am currently undergoing training at Cubos Academy, where I am delving into the JavaScript ecosystem. I am gaining knowledge in back-end development with Node.js, Express, RESTful APIs, and PostgreSQL. I am committed to expanding my skills in these areas and preparing myself to embark on my career as a developer.
+I’m actively seeking my first developer role where I can contribute, grow, and work alongside experienced professionals.
 
-Currently, I am in search of my first opportunity as a developer, where I can apply the skills and knowledge I have acquired. I am excited to contribute to challenging projects and learn from an experienced team. I am willing to put in the effort to become the best developer I can be.
-
-If you are looking for someone with a positive attitude, enthusiasm, and a willingness to learn, please do not hesitate to get in touch! I am looking forward to being part of a team and creating impactful solutions together.
+If you’re looking for a motivated team player eager to learn and make an impact, feel free to connect!
