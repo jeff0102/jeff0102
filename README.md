@@ -1,17 +1,17 @@
-
 <p align="center">
   <img src="https://i.imgur.com/E2UVz8s.png" alt="Header">
 </p>
 
-
 # Welcome to My GitHub Profile!
 
-I’m a passionate aspiring backend developer, transitioning into software development after discovering my love for programming during my studies.
+I’m an IT professional with 2+ years of experience in technical and application support, currently transitioning into software development through my Software Engineering degree and hands-on projects.
 
-I’m focused on mastering the JavaScript ecosystem, especially Node.js, Express, RESTful APIs, and PostgreSQL.
+My current focus is backend development, particularly the JavaScript/TypeScript ecosystem, Node.js, RESTful APIs, PostgreSQL, and building reliable software solutions.
 
-I enjoy learning new skills, tackling challenges, and constantly improving myself to deliver great user experiences through code.
+My background in technical support has given me practical experience troubleshooting complex issues, working with APIs and databases, handling data integrations, and collaborating with international teams. I’m now applying that experience to software engineering and expanding my development skills.
 
-I’m actively seeking my first developer role where I can contribute, grow, and work alongside experienced professionals.
+I’m particularly interested in Backend Development, Application Support, Technical Support Engineering, and other roles where I can combine my technical background with software development.
 
-If you’re looking for a motivated team player eager to learn and make an impact, feel free to connect!
+I enjoy learning new technologies, solving problems, and continuously improving my skills through hands-on projects.
+
+Feel free to explore my repositories or connect with me!
